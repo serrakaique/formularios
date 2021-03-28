@@ -11,6 +11,8 @@
 			<ul class="menu">
 				<a href="index.php"><li>Incluir</li></a>
 				<a href="consultas.php"><li>Listar</li></a>
+				<a href="deletar.php"><li>Deletar</li><a>
+				<a href="editar.php"><li>Editar</li></a>
 			</ul>
 		</nav>
 		<section>
